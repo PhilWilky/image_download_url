@@ -9,11 +9,7 @@ os.chdir('images')
 
 broken_images = []
 image_urls = [
-    'https://dgduupz79pcvd.cloudfront.net/productimages/vow_premium/l/kf01548.jpg',
-    'https://dgduupz79pcvd.cloudfront.net/productimages/vow_premium/l/ss18941.jpg',
-    'https://dgduupz79pcvd.cloudfront.net/productimages/vow_premium/l/kf20016.jpg',
-    'https://dgduupz79pcvd.cloudfront.net/productimages/vow_premium/l/wac10041.jpg',
-    'https://dgduupz79pcvd.cloudfront.net/productimages/vow_premium/l/phil.jpg',
+    'http://philwilky.me/img/bg.jpg'
     ]
 
 for img in image_urls:
